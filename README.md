@@ -14,3 +14,7 @@ When a die is selected, shaking the hand will trigger the rolling of the dice, g
 ## Concept Sketches
 
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/166a981078c278b7f361ac1df41a3d97fb0a54ee_concept.png" width="700" title="Concept Sketches">
+
+## Wiring Diagram
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/eddef55b27f827b456fa64dea253ccb92ff628ad_wiring-diagram.png" width="500" title="Wiring Diagram">
